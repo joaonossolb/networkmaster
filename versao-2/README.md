@@ -5,7 +5,7 @@ Configura um IP(interno) fixo no linux.
 Verifica se o usuário é root para executar o script
 Verificar se a interface de rede e o IP foram digitados corretamente, evitando a configuração errada por erro de digitação.
 
-# Posso adaptar o codigo de Rastlog?
+# Posso adaptar o codigo de Network Master?
 Sim, desde que coloque o meu nome(JOÃO ALEXANDRE NOSSOL BALBINO) e github(github.com/joaonossolb) como crédito em seu codigo.
 
 # ATENÇÃO
@@ -19,7 +19,7 @@ Configure a fixed (internal) IP in linux.
 Verifies that the user is root to run the script
 Verify that the network interface and the IP were entered correctly, avoiding the wrong configuration by typing error.
 
-# Can I adapt the Rastlog code?
+# Can I adapt the Network Master code?
 Yes, as long as you put my name (JOHN ALEXANDRE NOSSOL BALBINO) and github (github.com/joaonossolb) as credit in your code.
 
 # ATTENTION
